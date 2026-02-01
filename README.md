@@ -1,5 +1,4 @@
 # Sentiment-Analysis
-<h1>SENTIMENT ANALYSIS</h1>
 
 <p>
 Il progetto consiste nella <b>sentiment analysis</b> di un dataset di poesie tratto dal <b>Progetto Gutenberg</b>.
